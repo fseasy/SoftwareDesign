@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1363529546 source:c:\users\x\softwaredesignbyx\heaparrange\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"../lib_x/Heap_max.h"
+
+1363529674 c:\users\x\softwaredesignbyx\lib_x\heap_max.h
+
+1363529546 source:f:\softwaredesignbyx\heaparrange\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"../lib_x/Heap_max.h"
+
+1363529674 f:\softwaredesignbyx\lib_x\heap_max.h
+
+1363529546 source:h:\softwaredesignbyx\heaparrange\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"../lib_x/Heap_max.h"
+
+1363529674 h:\softwaredesignbyx\lib_x\heap_max.h
+
