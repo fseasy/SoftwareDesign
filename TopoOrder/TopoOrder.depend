@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1365229041 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\topoorder\main.cpp
+	"diGraph.h"
+
+1365229187 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\topoorder\digraph.h
+	<iostream>
+	<string>
+	<fstream>
+	"../lib_x/QUEUE.h"
+
+1362894412 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\queue.h
+

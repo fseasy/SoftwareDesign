@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363957785 source:c:\users\x\softwaredesignbyx\mfset\main.cpp
+	<iostream>
+	"../lib_x/MFSET.h"
+
+1363957879 c:\users\x\softwaredesignbyx\lib_x\mfset.h
+

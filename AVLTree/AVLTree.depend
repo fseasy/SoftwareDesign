@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1364217916 source:c:\users\x\softwaredesignbyx\avltree\main.cpp
+	<iostream>
+	"../lib_x/AVLTree.h"
+
+1364218265 c:\users\x\softwaredesignbyx\lib_x\avltree.h
+

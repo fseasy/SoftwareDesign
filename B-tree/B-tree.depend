@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1371565181 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\b-tree\main.cpp
+	<iostream>
+	"../lib_x/BTree.h"
+
+1371565217 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\btree.h
+	"QUEUE.h"
+
+1362894412 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\queue.h
+
+1371597882 source:f:\weiwei\softwaredesignbyx_3\b-tree\main.cpp
+	<iostream>
+	"../lib_x/BTree.h"
+	<ctime>
+	<stdlib.h>
+
+1371598106 f:\weiwei\softwaredesignbyx_3\lib_x\btree.h
+	"QUEUE.h"
+
+1362894412 f:\weiwei\softwaredesignbyx_3\lib_x\queue.h
+

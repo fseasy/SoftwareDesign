@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1362630904 source:c:\users\x\softwaredesignbyx\bankratemanage\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"../lib_x/LIST_array.h"
+
+1362629998 c:\users\x\softwaredesignbyx\lib_x\list_array.h
+
+1330844052 source:f:\softwaredesignbyx\bankratemanage\main.cpp
+	<iostream>
+	<fstream>
+	"../lib_x/LIST_array.h"
+
+1330841742 f:\softwaredesignbyx\lib_x\list_array.h
+
+1362472496 source:g:\softwaredesignbyx\bankratemanage\main.cpp
+	<iostream>
+	<fstream>
+	"../lib_x/LIST_array.h"
+
+1362472046 g:\softwaredesignbyx\lib_x\list_array.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1364101328 source:c:\users\x\softwaredesignbyx\csnode\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"../lib_x/Tree.h"
+
+1364102328 c:\users\x\softwaredesignbyx\lib_x\tree.h
+	"LIST_array.h"
+	"Queue.h"
+
+1363960828 c:\users\x\softwaredesignbyx\lib_x\list_array.h
+
+1362894412 c:\users\x\softwaredesignbyx\lib_x\queue.h
+

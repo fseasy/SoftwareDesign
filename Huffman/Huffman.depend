@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1364132802 source:c:\users\x\softwaredesignbyx\huffman\main.cpp
+	"../lib_x/Huffman.h"
+
+1364134481 c:\users\x\softwaredesignbyx\lib_x\huffman.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	"STACK_array.h"
+
+1362405572 c:\users\x\softwaredesignbyx\lib_x\stack_array.h
+
+1364132804 source:j:\softwaredesignbyx\huffman\main.cpp
+	"../lib_x/Huffman.h"
+
+1364134482 j:\softwaredesignbyx\lib_x\huffman.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	"STACK_array.h"
+
+1362405572 j:\softwaredesignbyx\lib_x\stack_array.h
+
+1364144941 source:f:\weiwei\softwaredesignbyx\huffman\main.cpp
+	"../lib_x/Huffman.h"
+
+1364144142 f:\weiwei\softwaredesignbyx\lib_x\huffman.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	"STACK_array.h"
+
+1362405572 f:\weiwei\softwaredesignbyx\lib_x\stack_array.h
+

@@ -1,0 +1,13 @@
+#include <iostream>
+#include "../lib_x/MFSET.h"
+/**
+    ³ÌÐòÃû³Æ£º
+*/
+using namespace std;
+
+int main()
+{
+    Mfset x(20) ;
+    x.Equivalence() ;
+    return 0;
+}

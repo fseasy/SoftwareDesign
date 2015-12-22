@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1363090825 source:c:\users\x\softwaredesignbyx\arrangenumbermachine\main.cpp
+	<iostream>
+	"../lib_x/QUEUE_list.h"
+
+1362894106 c:\users\x\softwaredesignbyx\lib_x\queue.h
+
+1363091293 c:\users\x\softwaredesignbyx\lib_x\queue_list.h
+

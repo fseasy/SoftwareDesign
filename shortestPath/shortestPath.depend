@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1365162146 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\shortestpath\main.cpp
+	"../lib_x/Graph_adjMatrix.h"
+
+1365512229 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\graph_adjmatrix.h
+	<iostream>
+	<fstream>
+	"STACK_array.h"
+	"QUEUE.h"
+	"MFSET.h"
+
+1362405572 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\stack_array.h
+
+1362894412 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\queue.h
+
+1365146224 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\mfset.h
+

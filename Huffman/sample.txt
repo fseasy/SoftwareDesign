@@ -1,0 +1,6 @@
+This text is written just for test the softWareDesign project Huffman .
+It should contains the functions for Encording and Decording .
+First ,we should build the Huffman tree , and then it is time to cording for encording and decording .
+Last semester , I have build one ,but it gets into trouble .
+It can't decording the file which is encorded .but it can decording the string which is not save to file .
+So this time ,I want to use C file instead of C++ file system .

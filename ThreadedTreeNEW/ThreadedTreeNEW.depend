@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1363951524 source:c:\users\x\softwaredesignbyx\threadedtreenew\main.cpp
+	<iostream>
+	"../lib_x/ThreadedTreeNEW.h"
+
+1363948587 c:\users\x\softwaredesignbyx\lib_x\threadedtree.h
+	"QUEUE.h"
+
+1362894412 c:\users\x\softwaredesignbyx\lib_x\queue.h
+
+1363951737 c:\users\x\softwaredesignbyx\lib_x\threadedtreenew.h
+	"QUEUE.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1041358442 source:c:\users\x\softwaredesignbyx\threadedtree\main.cpp
+	<iostream>
+	"..\lib_x\ThreadedTree.h"
+
+1363699000 c:\users\x\softwaredesignbyx\lib_x\threadedtree.h
+

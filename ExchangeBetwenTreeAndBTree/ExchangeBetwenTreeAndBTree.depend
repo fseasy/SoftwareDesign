@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1364045676 source:c:\users\x\softwaredesignbyx\exchangebetwentreeandbtree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"../lib_x/Tree.h"
+
+1364045650 c:\users\x\softwaredesignbyx\lib_x\tree.h
+	"LIST_array.h"
+	"Queue.h"
+
+1363960828 c:\users\x\softwaredesignbyx\lib_x\list_array.h
+
+1362894412 c:\users\x\softwaredesignbyx\lib_x\queue.h
+
+1364045678 source:f:\softwaredesignbyx\exchangebetwentreeandbtree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"../lib_x/Tree.h"
+
+1364102330 f:\softwaredesignbyx\lib_x\tree.h
+	"LIST_array.h"
+	"Queue.h"
+
+1363960830 f:\softwaredesignbyx\lib_x\list_array.h
+
+1362894412 f:\softwaredesignbyx\lib_x\queue.h
+

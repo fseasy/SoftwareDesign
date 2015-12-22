@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1355240887 source:f:\weiwei\课程\数据结构-实现\visitetree\main.cpp
+	<iostream>
+	"CreateBTREE.h"
+	"STACK.h"
+	"STACK_post_order.h"
+
+1355225428 f:\weiwei\课程\数据结构-实现\visitetree\createbtree.h
+	<iostream>
+	<string>
+
+1355227430 f:\weiwei\课程\数据结构-实现\visitetree\stack.h
+	"CreateBTREE.h"
+
+1355240463 f:\weiwei\课程\数据结构-实现\visitetree\stack_post_order.h
+	"CreateBTREE.h"
+

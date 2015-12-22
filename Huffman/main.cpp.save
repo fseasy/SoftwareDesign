@@ -1,0 +1,16 @@
+#include "../lib_x/Huffman.h"
+using namespace std;
+
+int main()
+{
+   Huffman x ;
+   x.getWeight() ;
+
+   x.buildHuffmanTree() ;
+   x.printHT() ;
+   x.buildHuffmanCode() ;
+    x.printHC() ;
+   // x.Encording() ;
+   cout <<x.binaryStr
+    return 0;
+}

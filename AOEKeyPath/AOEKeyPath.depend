@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1365593974 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\aoekeypath\main.cpp
+	"AOEKeyPath_adjList.h"
+
+1365338141 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\aoekeypath\aoekeypath.h
+	<iostream>
+	<fstream>
+	<string>
+	"../lib_x/QUEUE.h"
+
+1362894412 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\queue.h
+
+1365594892 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\aoekeypath\aoekeypath_adjlist.h
+	<iostream>
+	<fstream>
+	<string>
+	"../lib_x/QUEUE.h"
+

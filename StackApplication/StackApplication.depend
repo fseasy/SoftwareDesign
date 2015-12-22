@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1362406014 source:c:\users\x\softwaredesignbyx\stackapplication\main.cpp
+	<iostream>
+	<fstream>
+	"../lib_x/STACK_array.h"
+
+1362405572 c:\users\x\softwaredesignbyx\lib_x\stack_array.h
+

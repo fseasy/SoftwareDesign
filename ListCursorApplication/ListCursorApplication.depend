@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1362817343 source:c:\users\x\softwaredesignbyx\listcursorapplication\main.cpp
+	<iostream>
+	"../lib_x/List_cursor.h"
+
+1362817628 c:\users\x\softwaredesignbyx\lib_x\list_cursor.h
+

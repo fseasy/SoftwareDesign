@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1365685079 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\hashtable\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<stdlib.h>
+	"../lib_x/hashTable.h"
+
+1365684984 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\hashtable.h
+	<string>
+	<cmath>
+
+1335072720 source:f:\softwaredesignbyx_3\hashtable\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<stdlib.h>
+	"../lib_x/hashTable.h"
+
+1365685394 f:\softwaredesignbyx_3\lib_x\hashtable.h
+	<string>
+	<cmath>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1365921287 source:c:\users\xx.pureweber51-pc\softwaredesignbyx_3\sort\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"../lib_x/sort.h"
+
+1365921159 c:\users\xx.pureweber51-pc\softwaredesignbyx_3\lib_x\sort.h
+
